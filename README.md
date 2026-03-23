@@ -1,4 +1,4 @@
-<h1 align="center">Olá!! Sou a Ana Ju </h1>
+<h1 align="center">Olá!! Sou a Ana Ju 🌸</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ana-Soares-Vicente/Ana-Soares-Vicente/output/pacman-contribution-graph-dark.svg">
