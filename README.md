@@ -1,8 +1,10 @@
 <h1 align="center">Olá!! Sou a Ana Ju 🌸 </h1>
 
-<div align="center">
-   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" height="180"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ana-Soares-Vicente/Ana-Soares-Vicente/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ana-Soares-Vicente/Ana-Soares-Vicente/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ana-Soares-Vicente/Ana-Soares-Vicente/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
