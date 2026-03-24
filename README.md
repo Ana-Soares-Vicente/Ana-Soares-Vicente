@@ -1,11 +1,4 @@
 <h1 align="center">Olá!! Sou a Ana Ju 🌸</h1>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ana-Soares-Vicente/Ana-Soares-Vicente/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ana-Soares-Vicente/Ana-Soares-Vicente/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ana-Soares-Vicente/Ana-Soares-Vicente/output/pacman-contribution-graph.svg">
-</picture>
-
 ---
 
 ## Sobre mim
@@ -66,3 +59,9 @@ Gosto de transformar ideias em código, sempre buscando aprender mais e evoluir 
 </div>
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ana-Soares-Vicente/Ana-Soares-Vicente/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ana-Soares-Vicente/Ana-Soares-Vicente/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ana-Soares-Vicente/Ana-Soares-Vicente/output/pacman-contribution-graph.svg">
+</picture>
