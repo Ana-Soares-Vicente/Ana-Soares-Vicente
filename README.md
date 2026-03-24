@@ -1,5 +1,4 @@
 <h1 align="center">Olá!! Sou a Ana Ju 🌸</h1>
----
 
 ## Sobre mim
 
