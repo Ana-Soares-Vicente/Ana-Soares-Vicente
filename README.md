@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:ff69b4,100:ffc0cb"/>
+
 <h1 align="center">Olá!! Sou a Ana Ju 🌸</h1>
 
 ## Sobre mim
@@ -13,8 +15,8 @@ Gosto de transformar ideias em código, sempre buscando aprender mais e evoluir 
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ana-Soares-Vicente&show_icons=true&theme=transparent&title_color=ff69b4&text_color=ffb6c1&icon_color=ff69b4&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ana-Soares-Vicente&layout=compact&theme=transparent&title_color=ff69b4&text_color=ffb6c1&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ana-Soares-Vicente&show_icons=true&theme=transparent&title_color=ff4da6&text_color=ff99cc&icon_color=ff66b2&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ana-Soares-Vicente&layout=compact&theme=transparent&title_color=ff4da6&text_color=ff99cc&hide_border=true"/>
 </div>
 
 ---
@@ -29,8 +31,7 @@ Gosto de transformar ideias em código, sempre buscando aprender mais e evoluir 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"/>
 </div>
 
 ---
