@@ -4,7 +4,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia de Software**, com foco em backend e criação de aplicações organizadas e funcionais.  
+Sou estudante de **Engenharia de Software**, com foco em frontend e criação de aplicações organizadas e funcionais.  
 Gosto de transformar ideias em código, sempre buscando aprender mais e evoluir na área da tecnologia!
 
 - **Formação:** Engenharia de Software – Universidade Católica de Santa Catarina  
