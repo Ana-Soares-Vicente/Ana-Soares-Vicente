@@ -53,9 +53,9 @@ Gosto de transformar ideias em código, sempre buscando aprender mais e evoluir 
 
 ## Tocando agora
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yzpm87sqsyujklp351v8ut7ma&count=3"/>
-</div>
+<a href="https://open.spotify.com/user/yzpm87sqsyujklp351v8ut7ma">
+  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=yzpm87sqsyujklp351v8ut7ma&amp;count=4&amp;width=360&amp;radius=15&amp;time=0&amp;logo=0&amp;footer=wave" alt="Spotify recently played" width="360" />
+</a>
 
 ---
 
